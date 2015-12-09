@@ -1,0 +1,21 @@
+---
+layout: sub
+menu: 
+    - text: Overview
+      href: index.html
+    - text: Documentation
+      href: documentation.html
+    - text: Install
+      href: install.html
+
+module_details:
+    name: 'BreakDancer'
+    exe_name: breakdancer-max
+    pkg_name: breakdancer
+    icon_16: res/images/genome_breakdancer_16.png
+    icon: res/images/genome_breakdancer_48.png
+    gmt_pkg_name: breakdancer
+    debian_pkg_name: breakdancer
+
+download_link: install.html
+github_url: https://github.com/genome/breakdancer
